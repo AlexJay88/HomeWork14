@@ -1,5 +1,4 @@
 abstract public class Hogwarts  {
-
       private String fullName;
       private int magic;
       private int transgression;

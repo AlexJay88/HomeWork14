@@ -28,7 +28,6 @@ public class Main {
               Hogwarts.studentСompare(ZhouChang,GrahamMontagu);
 
 
-
         }
                     
                 
