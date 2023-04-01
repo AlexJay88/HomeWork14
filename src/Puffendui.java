@@ -1,5 +1,4 @@
 public class  Puffendui extends Hogwarts{
-
     private int industriousness;
     private int loyalty;
     private int honor;

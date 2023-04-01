@@ -1,10 +1,7 @@
 abstract public class Hogwarts  {
-
-
       private String fullName;
       private int magic;
       private int transgression;
-
 
     public Hogwarts(String fullName, int magic, int transgression) {
         this.fullName = fullName;
