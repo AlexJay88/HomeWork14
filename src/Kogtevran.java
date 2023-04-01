@@ -4,6 +4,7 @@ public class Kogtevran extends Hogwarts {
     private int wit;
     private int creativity;
 
+
     public Kogtevran(String fullName, int magic, int transgression, int smart, int wisdom, int wit, int creativity) {
         super(fullName, magic, transgression);
         this.smart = smart;

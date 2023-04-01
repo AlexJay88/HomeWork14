@@ -3,6 +3,7 @@ public class  Puffendui extends Hogwarts{
     private int loyalty;
     private int honor;
 
+
     public Puffendui(String fullName, int magic, int transgression, int industriousness, int loyalty, int honor) {
         super(fullName, magic, transgression);
         this.industriousness = industriousness;
